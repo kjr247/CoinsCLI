@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">CoinsCLI</h3>
   <p align="center">
     <strong>.bashrc Audible Feedback Enhancer</strong>
     <br />
@@ -94,14 +94,7 @@ This repository contains a <code>.bashrc</code> configuration that adds audible 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+.bashrc
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
