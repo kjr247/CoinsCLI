@@ -293,8 +293,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
-## Buy Me A Coffee
+## ☕💛☕🤝Buy Me A Coffee
 
 If you found some value here, please consider fueling new features or the next project! Feel free to leave me a note and some coffee dollars go a long way!
 
-- [Buy Me A Coffee](https://buymeacoffee.com/kylebuilds)
+- [☕💛☕🤝 Buy Me A Coffee](https://buymeacoffee.com/kylebuilds)
