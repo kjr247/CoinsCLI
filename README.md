@@ -123,6 +123,11 @@ Once installed, use your terminal as usual. When you run commands, scripts, or p
 
 _For more customization tips, see the comments in the <code>.bashrc</code> file._
 
+### Outputs a fantastic fanfair song using OS specific beep API when things complete. As well as a heartbeat sound every 20 seconds.
+```bash
+jgl sleep 30
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
